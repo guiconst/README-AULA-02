@@ -1,1 +1,12 @@
-
+span{
+    font-family: sans-serif;
+    font-style: italic;
+    font-size: 50px;
+    color: rgb(86, 157, 250);
+    padding-bottom: 20px;
+}
+div{
+    background-color: rgb(176, 220, 255);
+    width: 160;
+    height: 85;
+}
